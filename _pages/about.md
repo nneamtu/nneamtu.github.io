@@ -23,6 +23,11 @@ most recently focusing on relevance and grounding of LLM-generated content.
 * *May 2023:* I presented "Trees and Turtles: Modular Abstractions for State Machine Replication" at [PaPoC 2023](https://papoc-workshop.github.io/2023/) (co-organized with EuroSys) in Rome.
 * *March 2023:* My team's feature, AI-generated short videos for Knowledge Cards, was featured on [Bing's blog](https://blogs.bing.com/search/march_2023/Bing-Preview-Release-Notes-AI-powered-Knowledge-Cards-and-Stories).
 * *May 2021:* I was named a [Merrill Presidential Scholar](https://news.cornell.edu/stories/2021/05/merrill-scholars-thank-educators-who-shaped-cornell-journeys) (and got quoted in Cornell's write-up!). Thanks to Robbert and Mr. Fagan for their support over the years!
+* *May 2021:* I was one of two graduating seniors to receive the
+ **Alan S. Marx Memorial Prize for Excellence in Undergraduate Teaching**
+from Cornell's computer science department. Thanks to Michael and Fred for
+their mentorship during my time as their TAs, 
+and to all of my teachers who have inspired me with a love of learning and teaching!
 
 Education
 ======

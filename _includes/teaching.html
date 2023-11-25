@@ -1,0 +1,14 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item">
+    <p>
+      <div class="industry__item-title">
+        {{ post.course }}{% if post.name %}: {{ post.name }}{% endif %} ({{post.semester}})
+      </div>
+      <div class="industry__subtitle"> {{ post.university }} </div>
+      {% if post.designation %}<div><b> {{ post.designation }}</b></div>{% endif %}
+      {% if post.link %}<a href="{{ post.link }}">{{ post.linkText}}</a>{% endif %}
+    </p>
+  </article>
+</div>

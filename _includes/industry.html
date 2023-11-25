@@ -1,0 +1,25 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item">
+    <p>
+      <div class="industry__item-title">
+        {{ title }} ({{ post.start }} - {{ post.end }})
+      </div>
+      <div class="industry__subtitle"> {{ post.company }}  &middot; {{ post.location }} </div>
+      <div> {{ post.description }}</div>
+    </p>
+  </article>
+</div>

@@ -16,7 +16,8 @@ I'm excited about applying formal techniques to critical computing infrastructur
 and making verification/reasoning about correctness more accessible to developers.
 
 In my day job, I work on data-centric problems for Bing's knowledge graph,
-most recently focusing on relevance and grounding of LLM-generated content.
+most recently creating AI-generated short videos,
+focusing on relevance and grounding of LLM-generated content.
 
 ### News
 * *August 2023:* I was awarded an [NSF CSGrad4US Graduate Fellowship](https://www.nsf.gov/cise/CSGrad4US/).

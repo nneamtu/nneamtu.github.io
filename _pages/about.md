@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer at Microsoft. I graduated in 2021 
-from Cornell University where my research was advised
-by [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/). 
+I am a first year PhD student at the University of Washington.
 My interests lie in systems and formal methods:
 I'm excited about applying formal techniques to critical computing infrastructure,
-and making verification/reasoning about correctness more accessible to developers.
+and making verification/reasoning about correctness easier for developers.
 
-In my day job, I work on data-centric problems for Bing's knowledge graph,
-most recently creating AI-generated short videos,
-focusing on relevance and grounding of LLM-generated content.
+I graduated in 2021 from Cornell University, where my research was advised
+by [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/). 
+Previously, I worked on data-centric problems for Bing's knowledge graph,
+most recently using LLMs for semi-structured data extraction and unstructured data generation.
 
 ### News
 * *August 2023:* I was awarded an [NSF CSGrad4US Graduate Fellowship](https://www.nsf.gov/cise/CSGrad4US/).

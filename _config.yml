@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Natalie Neamtu"
-  avatar           : "profile.jpg"
-  bio              : "Software Engineer, Microsoft"
+  avatar           : "profile_2.jpg"
+  bio              : "PhD Student, University of Washington"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gzIH3nAAAAAJ"
-  email            :  "nan55 at cornell dot edu"
+  email            :  "neamtu at cs dot washington dot edu"
   resume           : "/files/Resume.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

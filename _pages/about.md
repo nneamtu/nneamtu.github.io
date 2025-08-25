@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in CSE at the University of Washington.
-My research interests lie in formal methods and verification for systems.
-I am excited about developing new techniques, and applications thereof,
-for reasoning about and proving the correctness of systems that bring
-formal reasoning closer to widespread use in software development practice.
+I am a second year PhD student in Computer Science at Carnegie Mellon University
+where I am advised by [Bryan Parno](https://www.andrew.cmu.edu/user/bparno/).
+My research area is formal verification for systems.
 
 I graduated in 2021 from Cornell University, where my research on
 formal and informal models of distributed consensus protocols was advised
@@ -21,9 +19,7 @@ After that, I worked on data-centric problems for Bing's knowledge graph,
 most recently using LLMs for semi-structured data extraction and unstructured data generation.
 
 ### News
-* *January 2025*: I am visiting the [Secure Foundations Lab](https://www.andrew.cmu.edu/user/bparno/research.html) 
-at Carnegie Mellon University for the spring semester. 
-I am working on modular verification of large distributed and concurrent systems in Verus.
+* *May 2025*: I started an internship at the Systems Research Group at Microsoft Research.
 * *September 2024*: I quit my job (and, more importantly, started my PhD)!!
 * *July 2024*: My team's feature, generative search, was featured on [Bing's blog](https://blogs.bing.com/search/July-2024/generativesearch).
 * *August 2023:* I was awarded an [NSF CSGrad4US Graduate Fellowship](https://www.nsf.gov/cise/CSGrad4US/).

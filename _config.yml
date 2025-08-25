@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Natalie Neamtu"
   avatar           : "headshot.jpg"
-  bio              : "PhD Student, University of Washington"
-  location         : "Seattle, WA"
+  bio              : "PhD Student, Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gzIH3nAAAAAJ"
-  email            :  "neamtu at cs dot washington dot edu"
+  email            :  "nneamtu at andrew dot cmu dot edu"
   resume           : "/files/Resume - Natalie Neamtu.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

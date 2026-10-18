@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: "#publications"
 
-  - title: "Industry Experience"
-    url: "#industry-experience"    
+  - title: "Talks"
+    url: "#talks" 
 
-  - title: "Past Projects"
-    url: "#past-projects"   
+  - title: "Industry Experience"
+    url: "#industry-experience"      
         
   - title: "Teaching"
     url: "#teaching"

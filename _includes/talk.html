@@ -1,0 +1,12 @@
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <p>
+      <div class="publication__item-title" itemprop="headline">
+        {{ title }}
+      </div>
+      {% if post.recording %}<div class="">{{ post.authors }}</div> {% endif %}
+      <div class="">{{ post.venue }} </div>
+      <div><a href='{{post.slides}}'>Slides</a>{% if post.recording %} &middot; <div><a href='{{post.recording}}'>Recording</a> {% endif %}
+    </p>
+  </article>
+</div>

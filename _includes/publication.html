@@ -20,7 +20,7 @@
       </div>
       <div class="">{{ post.authors }}</div>
       <div class="">{{ post.venue }} </div>
-      <div><a href='{{post.official}}'>Official version</a> &middot; <a href='{{post.full}}'>Full version</a> </div>
+      {% if post.official %}<div><a href='{{post.official}}'>Official version</a> &middot;{% endif %} <a href='{{post.full}}'>Full version</a> </div>
     </p>
   </article>
 </div>
